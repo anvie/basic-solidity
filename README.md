@@ -1,6 +1,6 @@
 # Basic Solidity Smart Contract
 
-This is [Reframe](https://github.com/ansvia/reframe) source to build basic Solidity Smart Contract with Brownie.
+This is [Reframe](https://github.com/ansvia/reframe) source to build basic Solidity Smart Contract with [Brownie](https://eth-brownie.readthedocs.io/en/stable/).
 
 ## Usage
 
