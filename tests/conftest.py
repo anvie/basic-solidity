@@ -23,7 +23,7 @@ def admin(accounts):
     return acc
 
 @pytest.fixture(scope="module")
-def pjf($name_pascal_case$, owner, admin):
-    _pjf_contract = $name_pascal_case$.deploy(admin, {'from': owner})
-    return _pjf_contract
+def $name_snake_case$($name_pascal_case$, owner, admin):
+    _$name_snake_case$_contract = $name_pascal_case$.deploy(admin, {'from': owner})
+    return _$name_snake_case$_contract
 

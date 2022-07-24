@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 
 /**
  *
- * This code is part of pjf project (https://pjf.one).
+ * This code is part of $name$ project (https://$name_kebab_case$.one).
  * Developed by Jagat Token (jagatoken.com).
  *
  */
