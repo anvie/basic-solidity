@@ -4,7 +4,6 @@ from brownie import $name_pascal_case$, accounts, config, web3
 import json
 
 def main():
-    print("config['wallets']['owner_key']", config['wallets']['owner_key'])
     owner = accounts.add(config['wallets']['owner_key'])
     admin = accounts.add(config['wallets']['admin_key'])
 
