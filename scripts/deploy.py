@@ -21,7 +21,7 @@ def main():
     print("contract address:", contract.address)
 
     standard_json_input = $name_pascal_case$.get_verification_info()['standard_json_input']
-    with open('$name_pascal_case$Flattened.json', 'w') as f:
+    with open('$name_pascal_case$-ABI.json', 'w') as f:
       f.write(json.dumps(standard_json_input))
-    print("$name_pascal_case$Flattened.json saved.")
+    print("$name_pascal_case$-ABI.json saved.")
 
